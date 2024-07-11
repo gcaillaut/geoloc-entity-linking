@@ -1,0 +1,20 @@
+name: el-pipeline
+channels:
+  - conda-forge
+  - huggingface
+  - pytorch
+  - anaconda
+dependencies:
+  - python=3.9
+  - transformers
+  - datasets
+  - ca-certificates
+  - openssl
+  - python-dotenv
+  - certifi
+  - scikit-learn
+  - pytorch
+  - pathlib
+  - ipykernel
+  - pip
+  

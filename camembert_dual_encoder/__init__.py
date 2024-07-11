@@ -1,0 +1,2 @@
+from .configuration_camembert_dual_encoder import CamembertDualEncoderConfig
+from .modeling_camembert_dual_encoder import CamembertDualEncoderModel
